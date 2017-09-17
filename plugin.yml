@@ -1,0 +1,128 @@
+name: SesameNew
+author: ElmoStreet
+main: com.sesamepvp.main.SesameCore
+version: 1.0
+description: SesameCore
+commands:
+  friend:
+   description: friend
+  duel:
+   description: duel
+  arena:
+   description: arena
+  reply:
+   description: reply to msgs
+  r:
+   description: reply
+  adminfun:
+   description: admin fun!
+  rm:
+   description: rank management!
+  tokens:
+   description: player tokens
+  token:
+   description: manage player tokens
+  tempmute:
+   description: temp mute players.
+  reports:
+   description: report gui
+  stats:
+   description: stats
+  sesame:
+   description: sesame
+  quests:
+   description: quests
+  uuid:
+   description: uuid
+  setspawn:
+   description: setspawn
+  website:
+   description: website
+  craft:
+   description: craft
+  clearchat:
+   description: clear the chat.
+  cc:
+   description: clear the chat.
+  mc:
+   description: mute the chat.
+  mutechat:
+   description: mute the chat.
+  mod:
+   description: moderator mode.
+  freeze:
+   description: freeze players.
+  report:
+   description: report players.
+  stats:
+   description: stats .
+  kits:
+   description: kits.
+  kitshop:
+   description: kitshop.
+  sesame:
+   description: some kit pvp information.
+  list:
+   description: get the list of the players.
+  fly:
+   description: flight.
+  vanish:
+   description: vanish.
+  v:
+   description: vanish.
+  gamemode:
+   description: gamemode.
+  gm:
+   description: gamemode.
+  setspawn:
+   description: set the spawn.
+  spawn:
+   description: teleport to the spawn.
+  feed:
+   description: feed.
+  heal:
+   description: heal.
+  ci:
+   description: clear inventory.
+  clear:
+   description: clear inventory.
+  clearinventory:
+   description: clearinventory.
+  bc:
+   description: broadcast
+  broadcast:
+   description: broadcast.
+  message:
+   description: message.
+  msg:
+   description: message
+  m:
+   description: message
+  invsee:
+   description: inventorysee.
+  inspect:
+   description: inventorysee.
+  teleport:
+   description: teleport to others.
+  tp:
+   description: teleportation.
+  setpath:
+   description: manage paths and values in config.
+  mute:
+   description: mute players.
+  unmute:
+   description: unmute players.
+  ban:
+   description: ban players.
+  tempban:
+   description: tempban others.
+  unban:
+   description: unban players.
+  kick:
+   description: kick players
+  punish:
+   description: punish gui
+  banofflineplayer:
+   description: ban offline players.
+  warn:
+   description: warn players

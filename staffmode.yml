@@ -1,0 +1,53 @@
+Inspect:
+  material: BOOK
+  displayname: '&aInspect &7(Click to open)'
+  lore:
+  - '&2Inspect players inventories.'
+  slot: 3
+Compass:
+  material: COMPASS
+  displayname: '&aMover &7(Click to move)'
+  lore:
+  - '&2Move faster'
+  slot: 1
+RandomTP:
+  material: BLAZE_ROD
+  displayname: '&aRandom Teleportation &7(Click to teleport)'
+  lore:
+  - '&2Teleport randomly'
+  slot: 5
+Vanish:
+  material: INK_SACK
+  displayname: '&aVanish &7(Click to toggle)'
+  lore:
+  - '&2Vanish yourself'
+  slot: 8
+  data: 10
+  toggled:
+    displayname: '&aVanish &7(Click to toggle)'
+    material: INK_SACK
+    data: 8
+Flight:
+  material: GHAST_TEAR
+  displayname: '&aFlight &7(Click to toggle)'
+  lore:
+  - '&2Toggle Flight'
+  slot: 7
+Reports:
+  material: PAPER
+  displayname: '&aReports GUI &7(Click to open)'
+  lore:
+  - '&2Report GUI'
+  slot: 4
+WorldEdit:
+  material: WOOD_AXE
+  displayname: '&aWorldEdit &7(Click to manipulate)'
+  lore:
+  - '&2Manipulate Blocks!'
+  slot: 0
+MinerGUI:
+  material: IRON_PICKAXE
+  displayname: '&aMiners &7(Click to open)'
+  lore:
+  - '&2Miner GUI!'
+  slot: 2
